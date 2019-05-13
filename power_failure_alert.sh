@@ -49,5 +49,3 @@ else
 	echo "All Quiet On The Western Front" > /Users/tylerkspencer/iCloudDocs/Personal\ Projects/Power\ Failure/previous_status.txt
 fi
 
-#test moving folders
-#again stuff
